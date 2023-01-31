@@ -1,0 +1,37 @@
+body{
+    background-color : #d5e0ee; 
+    display : flex; 
+    justify-content : center; 
+    font-family: "Outfit", serif;
+    align-items : center; 
+    min-height : 100vh;  
+    height : 100%; 
+    width : 100%; 
+}
+
+.bg{
+    background-color: white;
+    border-radius : 15px; 
+    padding : 1%; 
+    top : 25%; 
+    text-align : center;
+    width: 375px;
+}
+
+.bg img{
+    border-radius: 15px;
+    height: 375px;
+    width: 375px;
+}
+h1 {
+    color: hsl(218, 44%, 22%);
+    font-weight: 700;
+    font-size : 30px; 
+}
+p {
+    color: hsl(220, 15%, 55%);
+    font-size: 20px;
+    font-weight: 400;
+    padding: 15px;
+  }
+  
